@@ -1,0 +1,17 @@
+<resources>
+    <string name="app_name">MyStoryApp</string>
+    <string name="title_activity_maps">MapsActivity</string>
+    <string name="camera_x">CameraX</string>
+    <string name="camera">Kamera</string>
+    <string name="gallery">Galeri</string>
+    <string name="upload">Unggah</string>
+    <string name="email">Email</string>
+    <string name="password">Password</string>
+    <string name="login">Log In</string>
+    <string name="signup">Sign Up</string>
+    <string name="btn_signup">Create Account</string>
+    <string name="name">Name</string>
+    <string name="register_subtitle">Please fill up this form to make your account</string>
+    <string name="description">Description</string>
+    <string name="retry">Muat Ulang</string>
+</resources>
